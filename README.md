@@ -13,5 +13,8 @@ Answer the series of window prompts displayed on the page.
 
 The randomly generated password will be shown in the dotted textbox. If desired, copy the password to your clipboard.
 
+## Credits
+Starter code can be found [here](https://github.com/coding-boot-camp/friendly-parakeet).
+
 ## License
 This project uses the [MIT License] (https://opensource.org/licenses/MIT).
